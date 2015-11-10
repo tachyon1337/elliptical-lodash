@@ -1,7 +1,7 @@
 {
   "name": "elliptical-lodash",
   "description": "Custom lodash builds for function, array and collections",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
